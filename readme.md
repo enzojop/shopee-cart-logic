@@ -68,7 +68,6 @@ O projeto demonstra excelente **modularização**:
 git clone [url-do-repositorio]
 
 # Entre na pasta do projeto
-cd carrinho_shopee
 
 # Execute o projeto
 node src/index.js
